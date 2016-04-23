@@ -1,0 +1,6 @@
+diff a/test.txt.rej b/test.txt.rej	(rejected hunks)
+@@ -0,0 +1,4 @@
++diff a/test.txt b/test.txt	(rejected hunks)
++@@ -0,0 +1 @@
+++よくぞここまでたどり着いた（以下略
++\ No newline at end of file
